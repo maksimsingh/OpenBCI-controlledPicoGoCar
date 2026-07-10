@@ -3,7 +3,7 @@ import sys
 import time
 
 # =========================
-# MOTOR KLASA
+# MOTOR CLASS
 # =========================
 class PicoGo(object):
     def __init__(self):
